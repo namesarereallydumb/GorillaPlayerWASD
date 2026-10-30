@@ -1,2 +1,4 @@
-# GorillaPlayerWASD
-1. Create an empty Add the script in it Add the Gorilla Player and your Main Cam
+# Install (Unity)
+1. Create an empty 
+2. Add the script in it 
+3. Add the Gorilla Player and your Main Cam
